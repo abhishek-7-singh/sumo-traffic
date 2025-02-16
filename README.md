@@ -1,5 +1,6 @@
 # 🚦 Smart Traffic Signal Control System
-
+## Author: Abhishek Singh
+## Vellore Institute of Technology, Chennai
 ## 📝 Introduction
 The **Smart Traffic Signal Control System** is designed to optimize traffic flow by collecting and analyzing vehicle data, including speed and proximity to other vehicles. The system leverages **SUMO (Simulation of Urban Mobility)** for realistic traffic simulations, and all collected data is stored in **Firebase** for real-time processing and monitoring.
 
