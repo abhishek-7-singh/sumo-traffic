@@ -21,7 +21,10 @@ The **Smart Traffic Signal Control System** is designed to optimize traffic flow
 - **TraCI (Traffic Control Interface)** – Interfaces SUMO with external controllers.
 
 ## 📥 Installation & Setup
-
+ ### 🔹 Run the Python osmWebWizard
+```sh
+python osmWebWizard.py
+```
 ### 🔹 Clone the Repository
 ```sh
 git clone https://github.com/abhishek-7-singh/sumo-traffic.git
