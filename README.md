@@ -26,6 +26,7 @@ The **Smart Traffic Signal Control System** is designed to optimize traffic flow
 ```sh
 git clone https://github.com/abhishek-7-singh/sumo-traffic.git
 ```
+![image](https://github.com/user-attachments/assets/7dbf07ed-2848-4856-af9c-049b10f34b1e)
 
   ### 🔹 Run the Python Firebase program
 ```sh
