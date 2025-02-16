@@ -2,14 +2,14 @@
 [SUMO, MACHINE LEARNING]
 ## Author: Abhishek Singh
 ## Vellore Institute of Technology, Chennai
-## Note: For Security reasons,and Github Revoking the Firebase Auth key, I have not provided the code for pushing the data to Firebase, but I will show the implemented part here below. 
+## Note: For Security reasons, and Github Revoking the Firebase Auth key, I have not provided the code for pushing the data to Firebase, but I will show the implemented part here below. 
 ## 📝 Introduction
 The **Smart Traffic Signal Control System** is designed to optimize traffic flow by collecting and analyzing vehicle data, including speed and proximity to other vehicles. The system leverages **SUMO (Simulation of Urban Mobility)** for realistic traffic simulations, and all collected data is stored in **Firebase** for real-time processing and monitoring.
 
 ## 🚀 Features
 - **Real-time Traffic Monitoring** – Tracks vehicle positions, speeds, and congestion levels.
 - **Firebase Integration** – Stores vehicle proximity and speed data for further analysis.
-- **Traffic Optimization** – Can be extended to dynamically adjust signal timings based on congestion.
+- **Traffic Optimization** – Can be extended to adjust signal timings based on congestion dynamically.
 - **Simulation with SUMO** – Uses realistic traffic models for better accuracy.
 - **Custom Map Integration** – Generate maps using OpenStreetMap (OSM) for different regions.
 
@@ -24,12 +24,12 @@ The **Smart Traffic Signal Control System** is designed to optimize traffic flow
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/abhishek-7-singh/smart-traffic.git
+git clone https://github.com/abhishek-7-singh/sumo-traffic.git
 ```
 
-### 🔹 Navigate to the Project Folder
+  ### 🔹 Run the Python Firebase program
 ```sh
-cd smart-traffic-signal
+python firebase.py
 ```
 
 ### 🔹 Install Dependencies
@@ -67,9 +67,9 @@ To create a traffic network from OpenStreetMap:
 
 ## 🤝 Contributing
 1. **Fork the repository**
-2. **Create a new branch** (`feature-enhancement`)
+2. **Create a new branch** (`feature enhancement)
 3. **Commit your changes** (`git commit -m "Added Firebase integration"`)
-4. **Push to your branch** (`git push origin feature-enhancement`)
+4. **Push to your branch** (`git push origin feature enhancement)
 5. **Open a pull request**
 
 
