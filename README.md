@@ -1,6 +1,7 @@
 # 🚦 Smart Traffic Signal Control System
 ## Author: Abhishek Singh
 ## Vellore Institute of Technology, Chennai
+## Note: For Security reasons,and Github Revoking the Firebase Auth key, I have not provided the code for pushing the data to Firebase, but I will show the implemented part here below. 
 ## 📝 Introduction
 The **Smart Traffic Signal Control System** is designed to optimize traffic flow by collecting and analyzing vehicle data, including speed and proximity to other vehicles. The system leverages **SUMO (Simulation of Urban Mobility)** for realistic traffic simulations, and all collected data is stored in **Firebase** for real-time processing and monitoring.
 
@@ -39,12 +40,18 @@ pip install sumo-tools firebase-admin
 ```sh
 sumo-gui -c config.sumocfg
 ```
+![image](https://github.com/user-attachments/assets/6f836515-9d85-4dc9-840d-97be640e8562)
 
 ## 📌 How It Works
 1. SUMO simulates vehicle movement in a predefined traffic network.
 2. The system collects real-time data on vehicle speeds and proximity.
 3. The data is pushed to **Firebase** for storage and analysis.
 4. Insights can be used to optimize traffic flow and reduce congestion.
+![image](https://github.com/user-attachments/assets/146d6285-558e-4b6f-95b7-ae4233b3ac5c)
+##Firebase Console
+![image](https://github.com/user-attachments/assets/ff4003f0-3d3d-46af-95d5-aee4060797cc)
+# Terminal
+![image](https://github.com/user-attachments/assets/41fdfe53-977a-4e68-b85b-260120659e66)
 
 ## 🗺️ Generating Custom Maps with OSM Web Wizard
 To create a traffic network from OpenStreetMap:
