@@ -1,4 +1,4 @@
-# 🚦 Smart Traffic Signal Control System
+# 🚦 Optimization of traffic using Machine Learning [SUMO, MACHINE LEARNING]
 ## Author: Abhishek Singh
 ## Vellore Institute of Technology, Chennai
 ## Note: For Security reasons,and Github Revoking the Firebase Auth key, I have not provided the code for pushing the data to Firebase, but I will show the implemented part here below. 
@@ -23,7 +23,7 @@ The **Smart Traffic Signal Control System** is designed to optimize traffic flow
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/abhishek-7-singh/smart-traffic-signal.git
+git clone https://github.com/abhishek-7-singh/smart-traffic.git
 ```
 
 ### 🔹 Navigate to the Project Folder
@@ -72,6 +72,6 @@ To create a traffic network from OpenStreetMap:
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-📧 **Email:** support@yourdomain.com  
-🔗 **GitHub:** [Your Repository](https://github.com/abhishek-7-singh/smart-traffic-signal)
+📧 **Email:** abhi11.sbsm@gmail.com  
+🔗 **GitHub:** [Optimization of traffic using Machine Learning](https://github.com/abhishek-7-singh/smart-traffic)
 
