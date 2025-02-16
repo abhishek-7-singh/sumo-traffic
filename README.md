@@ -1,4 +1,5 @@
-# 🚦 Optimization of traffic using Machine Learning [SUMO, MACHINE LEARNING]
+# 🚦 Optimization of traffic using Machine Learning 
+[SUMO, MACHINE LEARNING]
 ## Author: Abhishek Singh
 ## Vellore Institute of Technology, Chennai
 ## Note: For Security reasons,and Github Revoking the Firebase Auth key, I have not provided the code for pushing the data to Firebase, but I will show the implemented part here below. 
@@ -43,6 +44,9 @@ sumo-gui -c config.sumocfg
 ![image](https://github.com/user-attachments/assets/6f836515-9d85-4dc9-840d-97be640e8562)
 
 ## 📌 How It Works
+* Open the osmWebWizard
+  ![image](https://github.com/user-attachments/assets/e7a64950-d7b2-43f7-bca0-c6915a52f9a1)
+
 1. SUMO simulates vehicle movement in a predefined traffic network.
 2. The system collects real-time data on vehicle speeds and proximity.
 3. The data is pushed to **Firebase** for storage and analysis.
@@ -68,10 +72,9 @@ To create a traffic network from OpenStreetMap:
 4. **Push to your branch** (`git push origin feature-enhancement`)
 5. **Open a pull request**
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 ## 📬 Contact
 📧 **Email:** abhi11.sbsm@gmail.com  
-🔗 **GitHub:** [Optimization of traffic using Machine Learning](https://github.com/abhishek-7-singh/smart-traffic)
+🔗 **GitHub:** [Optimization of traffic using Machine Learning](https://github.com/abhishek-7-singh/sumo-traffic)
 
